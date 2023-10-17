@@ -45,10 +45,3 @@ currently there are some isuues in this project that I will fix them through tim
 
 1. if you want to login and the register system doesn't work, there are three account with the id {GG, scarface, bandicoot}
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
